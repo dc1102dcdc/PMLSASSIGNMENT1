@@ -1,0 +1,23 @@
+PMLS Assignment 1 - Results
+
+1. Gender vs Campaign Response
+
+Female: 43.77%
+Male: 34.08%
+
+2. Age Group vs Campaign Response
+
+<30: 32.93%
+30-50: 47.06%
+>50: 32.60%
+
+3. Purchase in Last Quarter vs Campaign Response
+
+Yes: 49.65%
+No: 21.69%
+
+4. Product Usage vs Campaign Response
+
+1-4 products: 18.08%
+5-8 products: 38.48%
+>8 products: 52.00%
